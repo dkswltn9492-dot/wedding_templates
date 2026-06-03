@@ -17,7 +17,7 @@ const CONFIG = {
 
   // ── 메인 (히어로) ──
   groom: {
-    name: "신랑",
+    name: "박종현",
     nameEn: "Groom",
     father: "아버지",
     mother: "어머니",
@@ -26,7 +26,7 @@ const CONFIG = {
   },
 
   bride: {
-    name: "신부",
+    name: "안지수",
     nameEn: "Bride",
     father: "아버지",
     mother: "어머니",
